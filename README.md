@@ -1,2 +1,2 @@
 # snake-webgame
- Snake Game
+ Snake Games
